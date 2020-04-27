@@ -2,7 +2,7 @@
 Curso de Prework de JS
 This is a change on my README
 
-## **Cómo escribir un buen README
+## Cómo escribir un buen README
 
 No hay un estándar sobre cómo escribir un buen README, cada proyecto es diferente y depende de cada uno. Pero hay ciertas partes que sí o sí debería contener un buen README.
 
